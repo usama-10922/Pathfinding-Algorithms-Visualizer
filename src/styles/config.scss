@@ -1,0 +1,9 @@
+$primaryColor: #ad30ff;
+$secondaryColor: #ecf0f1;
+$darkBlackColor: #313131;
+
+$bodyBackgroundColor: #f2f2f2;
+$bodyColor: $primaryColor;
+
+@import "./Header";
+@import "./Node";
